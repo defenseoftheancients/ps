@@ -1,0 +1,6 @@
+[submodule "photosharingBackend"]
+	path = photosharingBackend
+	url = https://github.com/defenseoftheancients/photosharingBackend
+[submodule "photosharingUI"]
+	path = photosharingUI
+	url = https://github.com/defenseoftheancients/photosharingUI
